@@ -3,7 +3,6 @@
   }
   
   body {
-    background-color: #FFF44F; /* Lemon yellow color */
     margin: 0;
   }
   
@@ -138,5 +137,9 @@ header {
   
   .lyrics-translation h2 {
     margin-bottom: 1rem; /* Space below the heading */
+  }
+  
+body {
+    background-color: #FFF44F; /* Lemon yellow color */
   }
   
